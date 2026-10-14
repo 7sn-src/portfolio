@@ -1,0 +1,27 @@
+{
+  "_help": "status is 'earned' or 'in-progress'. In-progress items are always labelled as such on the page. Dates are YYYY, YYYY-MM or YYYY-MM-DD. image can be a .png/.jpg/.webp scan or a .pdf in assets/. The entry marked example: true is a format sample: it is left out of the build unless you run `node build.mjs --examples`. Delete it when you've added a real one. showWhenEmpty is false, so the section stays hidden until you add a real certificate. Set it to true to show a short \"nothing here yet\" note instead.",
+  "showWhenEmpty": false,
+  "items": [
+    {
+      "example": true,
+      "title": "Example Certificate Title",
+      "organization": "Example Issuing Organisation",
+      "status": "earned",
+      "issued": "2026-01",
+      "expires": "",
+      "credentialId": "EXAMPLE-0000",
+      "summary": "This is a sample entry showing the layout. It is not a qualification I hold.",
+      "image": "",
+      "url": ""
+    },
+    {
+      "example": true,
+      "title": "Example In-Progress Qualification",
+      "organization": "Example Issuing Organisation",
+      "status": "in-progress",
+      "expected": "2027-06",
+      "summary": "A sample of how something you're working towards is shown. Not completed, and not a real qualification.",
+      "url": ""
+    }
+  ]
+}

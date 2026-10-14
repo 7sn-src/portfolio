@@ -1,0 +1,25 @@
+{
+  "lead": "I'm Hassan, a student at Sheikh Isa Bin Ali's Secondary School. I'm into cyber security, Linux and Python, and I learn by making open source projects.",
+  "fields": [
+    {
+      "label": "Where I'm studying",
+      "text": "I'm a student at Sheikh Isa Bin Ali's Secondary School."
+    },
+    {
+      "label": "What I'm interested in",
+      "text": "Cyber security, Linux and Python."
+    },
+    {
+      "label": "What I'm learning",
+      "text": "I'm learning Python, and the way I'm doing it is by making open source projects. I'm also learning Russian and German, and I already speak Arabic and English."
+    },
+    {
+      "label": "Where I'm headed",
+      "text": "I'm probably heading to university, and I'm hoping to get there with a scholarship. I'm also looking for an internship."
+    },
+    {
+      "label": "What's different about me",
+      "text": "I don't make the same mistake three times."
+    }
+  ]
+}

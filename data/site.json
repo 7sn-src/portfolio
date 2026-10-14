@@ -1,0 +1,26 @@
+{
+  "_help": "Everything here is public. url is your final web address (needed for link previews), e.g. https://yourname.github.io/portfolio/. ogImage is an optional picture for link previews (1200x630 works best), e.g. assets/images/preview.png. Leave out anything you don't want shown.",
+  "name": "Hassan Alsanadi",
+  "tagline": [
+    "Student",
+    "Cyber security",
+    "Python"
+  ],
+  "intro": "I'm a student at Sheikh Isa Bin Ali's Secondary School. I'm interested in cyber security and Linux, and I'm learning Python by building open source projects.",
+  "location": "",
+  "photo": "",
+  "photoAlt": "[[ Describe the photo in a few words, e.g. 'Portrait of Your Name' ]]",
+  "url": "",
+  "description": "",
+  "ogImage": "",
+  "cv": "cv/cv.pdf",
+  "cvNote": "",
+  "cvUpdated": "",
+  "contactIntro": "[[ One line about what you're happy to be contacted about. ]]",
+  "contact": {
+    "email": "",
+    "linkedin": "",
+    "github": "",
+    "other": []
+  }
+}

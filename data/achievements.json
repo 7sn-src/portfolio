@@ -1,0 +1,25 @@
+{
+  "_help": "Add a new achievement by copying one object in 'items' and editing it. Order doesn't matter: items are sorted newest first by 'date'. category must be one of: awards, academic, competitions, leadership, other. Leave out any field you don't have. Anything written as [[ like this ]] is a placeholder.",
+  "categories": {
+    "awards": "Awards and recognition",
+    "academic": "Academic achievements",
+    "competitions": "Competitions and events",
+    "leadership": "Leadership and community",
+    "other": "Other"
+  },
+  "items": [
+    {
+      "title": "RHF 25 Years Award",
+      "organization": "Royal Humanitarian Foundation (RHF)",
+      "date": "2026",
+      "category": "awards",
+      "featured": true,
+      "description": "[[ What this award recognises and why you received it, in your own words. ]]",
+      "skills": [],
+      "image": "",
+      "imageAlt": "",
+      "link": "",
+      "linkLabel": ""
+    }
+  ]
+}

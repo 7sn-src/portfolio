@@ -1,0 +1,45 @@
+{
+  "_help": "Each group can hold plain strings or { \"name\": \"...\", \"note\": \"...\" } when you want to say how you've used a skill (that's more convincing than a label alone). Empty groups are hidden, so leave the ones you don't need as [].",
+  "groups": [
+    {
+      "name": "Technical",
+      "items": [
+        {
+          "name": "Python",
+          "note": "learning, through open source projects"
+        }
+      ]
+    },
+    {
+      "name": "Communication",
+      "items": []
+    },
+    {
+      "name": "Leadership and teamwork",
+      "items": []
+    },
+    {
+      "name": "Research and problem-solving",
+      "items": []
+    },
+    {
+      "name": "Business and analytical",
+      "items": []
+    },
+    {
+      "name": "Languages",
+      "items": [
+        "Arabic",
+        "English",
+        {
+          "name": "Russian",
+          "note": "just started learning"
+        },
+        {
+          "name": "German",
+          "note": "just started learning"
+        }
+      ]
+    }
+  ]
+}

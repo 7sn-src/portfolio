@@ -1,0 +1,13 @@
+{
+  "_help": "Empty on purpose: this section stays hidden until you add an entry. Copy _template into items when you have a role, club or volunteering to show. Describe what you actually did. Newest first.",
+  "_template": {
+    "organization": "[[ Organisation, club or event ]]",
+    "role": "[[ Your role ]]",
+    "dates": "[[ e.g. Sep 2025 to present ]]",
+    "summary": "[[ One or two sentences on what the role involved. ]]",
+    "contributions": [
+      "[[ Something specific you did ]]"
+    ]
+  },
+  "items": []
+}

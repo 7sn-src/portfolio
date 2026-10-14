@@ -1,0 +1,21 @@
+{
+  "_help": "Empty on purpose: this section stays hidden until you add a project. Copy _template into items. Technical or not, the same fields are used. 'role' is what you personally did. Order here is the order on the page. featured: true gives one project the full width. images: up to three, as { \"src\": \"assets/images/x.png\", \"alt\": \"what it shows\" }.",
+  "_template": {
+    "name": "[[ Project name ]]",
+    "type": "[[ e.g. Business competition, Personal project, School initiative ]]",
+    "date": "[[ e.g. Mar to May 2026 ]]",
+    "featured": true,
+    "summary": "[[ What it was and why it existed. Two or three sentences. ]]",
+    "role": "[[ Your part in it, stated plainly. If it was a team, say what you did and what others did. ]]",
+    "contributions": [
+      "[[ A specific thing you did or decided ]]",
+      "[[ Another specific thing, with a result if you have a real one ]]"
+    ],
+    "tools": [
+      "[[ Tools, methods or skills used ]]"
+    ],
+    "images": [],
+    "links": []
+  },
+  "items": []
+}

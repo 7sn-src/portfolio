@@ -1,0 +1,17 @@
+{
+  "name": "portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Personal portfolio. No dependencies: `node build.mjs` turns data/*.json into dist/.",
+  "scripts": {
+    "build": "node build.mjs",
+    "dev": "node build.mjs && node serve.mjs",
+    "examples": "node build.mjs --examples && node serve.mjs",
+    "serve": "node serve.mjs",
+    "check": "node build.mjs --strict"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
